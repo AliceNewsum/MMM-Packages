@@ -1,0 +1,51 @@
+.mmm-packages {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    font-size: 18px;
+    color: #fff;
+}
+
+.pkg-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    line-height: 1.4;
+}
+
+.pkg-icon {
+    font-size: 16px;
+}
+
+.pkg-info {
+    display: inline-block;
+}
+
+.pkg-carrier {
+    color: #7eb8d4;
+    font-weight: bold;
+}
+
+.pkg-status {
+    color: #aaa;
+}
+
+.pkg-status.otd {
+    color: #f0a500;
+    font-weight: bold;
+}
+
+.pkg-status.delivered {
+    color: #4caf50;
+    font-weight: bold;
+}
+
+.pkg-item {
+    color: #ccc;
+    font-style: italic;
+}
+
+.pkg-none {
+    color: #666;
+    font-size: 16px;
+}

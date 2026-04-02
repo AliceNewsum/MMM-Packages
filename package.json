@@ -1,0 +1,27 @@
+{
+  "name": "MMM-Packages",
+  "version": "1.0.0",
+  "description": "A MagicMirror² module that scans IMAP email accounts for shipping and delivery notifications and displays package tracking status.",
+  "main": "node_helper.js",
+  "keywords": [
+    "MagicMirror",
+    "MagicMirror2",
+    "packages",
+    "delivery",
+    "shipping",
+    "tracking",
+    "IMAP",
+    "email",
+    "smart mirror"
+  ],
+  "author": "MatthewNewsum",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MatthewNewsum/MMM-Packages"
+  },
+  "bugs": {
+    "url": "https://github.com/MatthewNewsum/MMM-Packages/issues"
+  },
+  "homepage": "https://github.com/MatthewNewsum/MMM-Packages#readme"
+}
